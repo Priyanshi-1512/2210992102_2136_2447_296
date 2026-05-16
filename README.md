@@ -13,4 +13,21 @@ TYPE:
 Research
 
 CURRENT STATUS: 
-Accepted
+Submitted
+
+
+Commands to run the code:
+For Serial GC run:
+java -Xms2g -Xmx2g -XX:+UseSerialGC GCResearchBenchmark
+
+For Parallel GC run:
+java -Xms2g -Xmx2g -XX:+UseParallelGC GCResearchBenchmark
+
+For G1 GC run:
+java -Xms2g -Xmx2g -XX:+UseG1GC GCResearchBenchmark
+
+For ZGC run:
+java -Xms2g -Xmx2g -XX:+UseZGC GCResearchBenchmark
+
+For Shenandoah GC run:
+java -Xms2g -Xmx2g -XX:+UseShenandoahGC GCResearchBenchmark
