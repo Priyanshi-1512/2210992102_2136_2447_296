@@ -4,7 +4,7 @@ Roll Numbers & Names:
 Priyanshi Jain      2210992102
 Rakshita            2210992136
 Taniya              2210992447
-Divyanjali Singhla  2210990296
+Divyanjali Singla  2210990296
 
 PROJECT TITLE: 
 Performance Analysis of JVM Garbage Collectors under Memory-Intensive Workloads
